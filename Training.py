@@ -1,0 +1,1 @@
+print("Trenowanie sieci ehhhhhhhh")
